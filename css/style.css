@@ -8,8 +8,9 @@ body {
     margin: 0;
 }
 
-img {
+hero > img {
     max-width: 100%;
+    width: 100%;
     height: auto;
 }
 
